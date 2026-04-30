@@ -3,7 +3,7 @@
 $skill = $_GET['skill'] ?? 'python';
 
 // 🔑 Replace with your API key
-$apiKey = "AIzaSyDC-Eqsw_s-ZCuG2ipEzhx1olhqVlkcBmI";
+$apiKey = "";
 
 $query = urlencode($skill . " beginner to advanced full course");
 
