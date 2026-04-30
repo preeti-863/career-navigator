@@ -115,7 +115,7 @@ $user_message
 // =========================
 // GEMINI API CALL
 // =========================
-$apiKey = "AIzaSyBZuMhevXLQ5n8YX6iHMXIrxjeXlgETtks"; // ⚠️ IMPORTANT: keep this secure
+$apiKey = ""; // ⚠️ IMPORTANT: keep this secure
 
 $model = "gemini-flash-latest";
 $url = "https://generativelanguage.googleapis.com/v1beta/models/$model:generateContent?key=$apiKey";
