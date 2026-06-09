@@ -3,8 +3,8 @@ import requests
 import googleapiclient.discovery # pyright: ignore[reportMissingImports]
 
 
-YOUTUBE_API_KEY = "AIzaSyBY-EM9zkXBTi-_ne2dfi9hsDgpk3XvYg4"
-RAPIDAPI_KEY = "c6215c973dmshf406c8b77ebf438p145625jsn94f0eacfb22e"
+YOUTUBE_API_KEY = ""
+RAPIDAPI_KEY = ""
 
 
 # =========================
