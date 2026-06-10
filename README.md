@@ -1,5 +1,8 @@
 # 🚀 Career Navigator – AI Powered Career Guidance System
 
+## Live Demo
+Demo Link: https://drive.google.com/file/d/1DEVXdVjZO9giKPbr9mifiM_jWG87SFCN/view?usp=sharing
+
 ## 📌 Project Overview
 Career Navigator is a web-based intelligent career guidance system designed to help users choose suitable career paths in the IT domain. It uses **Machine Learning, Artificial Intelligence, and Web Technologies** to provide personalized career recommendations and a structured roadmap.
 
