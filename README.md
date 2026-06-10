@@ -84,7 +84,23 @@ The system is designed using a multi-layer architecture:
 
 <img width="961" height="442" alt="image" src="https://github.com/user-attachments/assets/e4334b80-2894-40f3-abcc-84af95b3872b" />
 
+### Dashboard
 
+<img width="1886" height="917" alt="image" src="https://github.com/user-attachments/assets/52fe3768-1569-4fb0-a94a-3b8dc792bcc9" />
+
+<img width="1872" height="870" alt="image" src="https://github.com/user-attachments/assets/57046d73-9b55-4202-ae06-66e26c02018e" />
+
+### Course Recommendations
+
+<img width="1806" height="902" alt="image" src="https://github.com/user-attachments/assets/c4bf8f5b-ba6b-4212-ab16-d9557f43d00a" />
+
+### Target Career Roadmap
+
+<img width="1882" height="907" alt="image" src="https://github.com/user-attachments/assets/5236da1f-3ef4-4f6d-ba20-b783bf17cbbc" />
+
+### Overall Progress
+
+<img width="1763" height="1358" alt="image" src="https://github.com/user-attachments/assets/ad101293-f9ca-4cc4-9417-47c1f39c4cff" />
 
 ---
 
